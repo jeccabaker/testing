@@ -1,0 +1,5 @@
+#list of packages that need to install on any computer that you are going to run tests on
+
+nose
+numpy
+
